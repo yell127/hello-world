@@ -6,3 +6,5 @@ Today is 2020.05.21.
 It's 01:09.
 
 START!
+
+GO
